@@ -7,7 +7,7 @@
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/LondheShubham153/django-notes-app.git
+git clone https://github.com/dibyaranjanGIT/django_demo_cicd.git
 ```
 
 2. Build the app
